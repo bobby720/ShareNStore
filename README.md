@@ -71,7 +71,7 @@ Whether it’s documents, images, videos, or project files, ShareNStore makes fi
 ## 1️⃣ Clone the Repository
 
 ```bash
-https://github.com/bobby720/ShareNStore.git
+git clone https://github.com/bobby720/ShareNStore.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
