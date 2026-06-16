@@ -6,7 +6,7 @@
 
 ShareNStore is a modern file sharing and storage platform that allows users to securely upload, manage, and share files online. The platform is designed with a clean UI, fast performance, and secure authentication to provide a smooth user experience.
 
-Whether it’s documents, images, videos, or project files, ShareNStore makes file management simple and accessible.
+Whether it’s documents, images, videos, or project  files, ShareNStore makes file management simple and accessible.
 
 ---
 
